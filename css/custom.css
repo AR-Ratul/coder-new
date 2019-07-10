@@ -70,14 +70,14 @@ input[type="text"] {
 	border-radius: 2px;
 }
 input[type="submit"] {
-	padding: 6px 6px;
+	padding: 6px 5px;
 	border-radius: 2px;
-	font-size: 16px;
+	font-size: 11px;
 	background-color: #ffffff;
 	/* background-image: linear-gradient(to bottom right, #52b552, #0dc15a); */
 	border: 0;
-	color: #1a1126;
-	margin-left: -197px;
+	color: #303567;
+	margin-left: -221px;
 	cursor: pointer;
 	}
 	section.main-box {width: 1100px;margin: auto;height: 553px;}
